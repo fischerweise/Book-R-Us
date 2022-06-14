@@ -16,6 +16,7 @@
 - The app consists of five screen; Splash screen, users' card, users' post, users' post with details, users' comment about chosen post.
 - Used table view.
 - The data fetched from *"https://jsonplaceholder.typicode.com/"*
+- I wrote this app for the Turkcell Geleceğe Yazanlar iOS Bootcamp. So, my commits were in a different private repository.
 
 ### Media
 
