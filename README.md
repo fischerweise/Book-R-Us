@@ -10,6 +10,7 @@
 ### Features
 
 - No storyboard was used. All layout was created with coding.
+- Coordinator pattern is used for the communication of views.
 - It completely supports the *Autolayout* in every device of iOS.
 - Network layer was created cleanly.
 - It also supports iOS 10 and above. 
